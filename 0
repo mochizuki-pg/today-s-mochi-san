@@ -1,8 +1,8 @@
 {
-  "tokenId": 21,
-  "name": "test21",
+  "tokenId": 0,
+  "name": "変化前だよ",
   "description": "test",
-  "image_url": "https://kyomugao.herokuapp.com/background_image.png",
+  "image_url": "https://people-done-twitter-rt.onrender.com/assets/0-3a5099ec8918b0d0ecf33c587e1b64070e18c0617bb87a1a5863d889692fdccf.png",
   "attributes": {
     "hair_color": "purplish red",
     "bangs": "hime",
