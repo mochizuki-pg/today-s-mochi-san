@@ -2,7 +2,7 @@
   "tokenId": 22,
   "name": "test22",
   "description": "test",
-  "image_url": "https://video.kurashiru.com/production/videos/90ed52d0-4fea-4516-b9a2-39ad2002ec29/compressed_thumbnail_square_normal.jpg?1662107432",
+  "image_url": "https://kyomugao.herokuapp.com/background_image.png",
   "attributes": {
     "hair_color": "purplish red",
     "bangs": "hime",
