@@ -1,10 +1,11 @@
 {
   "tokenId": 0,
-  "name": "変化前だよ",
-  "description": "test",
-  "image_url": "https://people-done-twitter-rt.onrender.com/assets/0-3a5099ec8918b0d0ecf33c587e1b64070e18c0617bb87a1a5863d889692fdccf.png",
+  "name": "テスト #0",
+  "description": "テスト",
+  "image_url": "https://people-done-twitter-rt.onrender.com/assets/1-43fbca433cad1d1dba3452edccb3c2f8d2ca153305900d6cbcf01f1e1eb699fa.png",
   "attributes": {
-    "attributes_1": "変化前",
-    "attributes_2": "変化前",
+    "attributes_1": "テスト",
+    "attributes_2": "テスト",
+    "attributes_3": "テスト"
   }
 }

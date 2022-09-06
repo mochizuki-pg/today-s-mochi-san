@@ -1,13 +1,11 @@
 {
   "tokenId": 22,
-  "name": "test22",
-  "description": "test",
-  "image_url": "https://kyomugao.herokuapp.com/background_image.png",
+  "name": "テスト #22",
+  "description": "テスト",
+  "image_url": "https://people-done-twitter-rt.onrender.com/assets/1-43fbca433cad1d1dba3452edccb3c2f8d2ca153305900d6cbcf01f1e1eb699fa.png",
   "attributes": {
-    "hair_color": "purplish red",
-    "bangs": "hime",
-    "earrings": "btc",
-    "clothes": "chaina",
-    "hair_accessory": "heapin"
+    "attributes_1": "テスト",
+    "attributes_2": "テスト",
+    "attributes_3": "テスト"
   }
 }
